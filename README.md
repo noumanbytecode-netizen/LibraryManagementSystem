@@ -1,2 +1,3 @@
 # LibraryManagementSystem
 This project is a Library Management System developed in C# using Windows Forms and .NET Framework. It is designed to help manage the daily operations of a library through an easy-to-use desktop application. The system allows efficient handling of book records, student/member information, book issuing, returns, and library data management. Its purpose is to reduce manual work, improve accuracy, and provide a structured way to maintain library operations.
+  
