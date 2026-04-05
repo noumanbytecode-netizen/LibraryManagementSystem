@@ -1,0 +1,17 @@
+C:\Users\mnoum\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Release\LibraryManagementSystem.exe.config
+C:\Users\mnoum\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Release\LibraryManagementSystem.exe
+C:\Users\mnoum\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Release\LibraryManagementSystem.pdb
+C:\Users\mnoum\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Release\Newtonsoft.Json.dll
+C:\Users\mnoum\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Release\Newtonsoft.Json.xml
+C:\Users\mnoum\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Release\LibraryManagementSystem.BorrowReturnForm.resources
+C:\Users\mnoum\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Release\LibraryManagementSystem.DashboardForm.resources
+C:\Users\mnoum\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Release\LibraryManagementSystem.LoginForm.resources
+C:\Users\mnoum\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Release\LibraryManagementSystem.ManageBooksForm.resources
+C:\Users\mnoum\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Release\LibraryManagementSystem.ManageMembersForm.resources
+C:\Users\mnoum\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Release\LibraryManagementSystem.MyBorrowsForm.resources
+C:\Users\mnoum\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Release\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\mnoum\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Release\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\mnoum\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Release\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\mnoum\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Release\LibraryManagementSystem.csproj.CopyComplete
+C:\Users\mnoum\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Release\LibraryManagementSystem.exe
+C:\Users\mnoum\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Release\LibraryManagementSystem.pdb
